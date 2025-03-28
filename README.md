@@ -21,7 +21,7 @@ SkillScan Smart ATS is a Streamlit-based web application designed to enhance you
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/skillscan-smart-ats.git
+   git clone https://github.com/kreezon/skillscan-smart-ats.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -30,7 +30,7 @@ SkillScan Smart ATS is a Streamlit-based web application designed to enhance you
 3. Create and activate a virtual environment:
    ```bash
    python -m venv env
-   source env/bin/activate  # On Windows use 'env\Scripts\activate'
+   source env/bin/activate  
    ```
 4. Install the required dependencies:
    ```bash
@@ -72,4 +72,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
